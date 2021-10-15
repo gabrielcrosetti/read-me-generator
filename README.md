@@ -13,7 +13,8 @@ A project that creates a README.md file for the user all through a command line 
 
 ## Demo 
 
-![readme](https://user-images.githubusercontent.com/89226867/137439034-1b9bc6b3-1bcb-4422-abf9-d559eb416c30.gif)
+![readme2](https://user-images.githubusercontent.com/89226867/137440754-dc5af19d-ede3-42f9-a7a3-48b97561e80e.gif)
+
 
 
 ## Code Snippet 
